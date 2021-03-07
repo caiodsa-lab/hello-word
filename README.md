@@ -1,2 +1,2 @@
-# hello-word
-Hello Word Repository (First Repository)
+# Hello Word Repository
+This my First Repository
