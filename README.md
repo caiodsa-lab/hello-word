@@ -1,2 +1,2 @@
 # Hello Word Repository
-This my First Repository
+My First Repository
